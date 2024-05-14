@@ -1,4 +1,11 @@
+**EX-12**
+
+
 # 4-BIT-RIPPLE-COUNTER
+
+
+**DATE:**
+
 
 **AIM:**
 
